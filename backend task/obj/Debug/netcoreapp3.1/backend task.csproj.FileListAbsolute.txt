@@ -1,0 +1,36 @@
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\backend task.exe
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\backend task.deps.json
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\backend task.runtimeconfig.json
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\backend task.runtimeconfig.dev.json
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\backend task.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\backend task.pdb
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\backend task.csprojAssemblyReference.cache
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\backend task.AssemblyInfoInputs.cache
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\backend task.AssemblyInfo.cs
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\backend task.RazorTargetAssemblyInfo.cache
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\staticwebassets\backend task.StaticWebAssets.Manifest.cache
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\staticwebassets\backend task.StaticWebAssets.xml
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\backend task.dll
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\backend task.pdb
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\backend task.genruntimeconfig.cache
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Code\.net\backend task\backend task\obj\Debug\netcoreapp3.1\backend task.csproj.CopyComplete
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Code\.net\backend task\backend task\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
